@@ -2,7 +2,7 @@
 
 // CHANGE THE VARIABLES BELOW
 
-$EmailFrom = "yourmail@mail.com";
+$EmailFrom = "kaikiting@gmail.com";
 $EmailTo = "kaikiting@gmail.com";
 $Subject = "Contact Form Submission";
 
